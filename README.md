@@ -5,6 +5,8 @@ XML Language Server (LemMinX)
 [![Build Status](https://img.shields.io/jenkins/tests?jobUrl=https%3A%2F%2Fci.eclipse.org%2Flemminx%2Fjob%2Flemminx%2Fjob%2Fmain%2F&style=for-the-badge&logo=jenkins&logoColor=white)](https://ci.eclipse.org/lemminx/job/lemminx/job/main/)
 [![CodeQL Status](https://img.shields.io/github/actions/workflow/status/eclipse/lemminx/codeql-analysis.yml?style=for-the-badge&label=codeql&logo=githubactions&logoColor=white)](https://github.com/eclipse/lemminx/actions/workflows/codeql-analysis.yml?query=branch%3Amain)
 [![LICENSE](https://img.shields.io/github/license/eclipse/lemminx?style=for-the-badge&color=informational)](https://github.com/eclipse/lemminx/blob/main/LICENSE)
+Apache Software Foundations
+Apache License 2.0 asf@stspg.org
 
 **LemMinX** is a XML language specific implementation of the [Language Server Protocol](https://github.com/Microsoft/language-server-protocol)
 and can be used with any editor that supports the protocol, to offer good support for the **XML Language**. The server is based on:
